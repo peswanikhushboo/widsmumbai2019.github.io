@@ -1,0 +1,39 @@
+#widsMumbaiNavBar{
+	background-color: #45c545;
+}
+
+#widsbackground{
+	width: 50%;
+	height: 85%;
+	margin-left:25%;
+}
+#widsAboutDetails{
+	font-size: 2vw;
+	margin: 7%;
+}
+#widsRegisterHeading{
+	font-size: 3vw;
+	margin-left:40%;
+	font-family: sans-serif;
+	background-color: #45c545;
+	color: white;
+	font-weight: bold;
+}
+#widsRegisterDetails{
+	font-size: 2vw;
+	margin-left:35%;
+	font-family: sans-serif;
+}
+#widsSpeakerHeading{
+	font-size: 3vw;
+	margin-left:40%;
+	font-family: sans-serif;
+	background-color: #45c545;
+	color: white;
+	font-weight: bold;
+}
+#widsSpeakerDetails{
+	font-size: 2vw;
+	margin-left:35%;
+	font-family: sans-serif;
+}
